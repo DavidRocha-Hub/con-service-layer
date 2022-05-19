@@ -1,0 +1,27 @@
+{
+  "name": "con-service-layer",
+  "version": "1.0.0",
+  "description": "JS library to connect to SAP Business One Service Layer includes methods to query, create, update and delete.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRocha-Hub/con-service-layer.git"
+  },
+  "author": "DavidRocha",
+  "license": "MTI",
+  "keywords": [
+    "sap",
+    "b1",
+    "connection",
+    "service",
+    "layer",
+    "methods"
+  ],
+  "bugs": {
+    "url": "https://github.com/DavidRocha-Hub/con-service-layer/issues"
+  },
+  "homepage": "https://github.com/DavidRocha-Hub/con-service-layer#readme"
+}
